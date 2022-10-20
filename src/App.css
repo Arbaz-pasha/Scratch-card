@@ -24,17 +24,19 @@ input{
 }
 
 button{
-    width: 100px;
+  width: 20vw;
     height: 50px;
     font: 100px bolder;
    font-size: medium;
-   background-color: rgb(231, 171, 68)!important;
+   background-color: rgb(18, 20, 146);
    border-radius: 5px;
+   color: white;
+   border: none;
 }
 
-button:hover{
+/* button:hover{
     transform: scale(1.2);
-}
+} */
 
 
 @media (max-width:768px){
